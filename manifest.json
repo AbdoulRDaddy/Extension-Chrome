@@ -1,0 +1,13 @@
+{
+    "name": "Mes Sociaux",
+    "description": "Learning all about Chrome Extensions Manifest Version 3!",
+    "version": "0.1.0",
+    "manifest_version": 3,
+    "icons": {
+        "32": "extension.png"
+    },
+    "action": {
+        "default_popup": "index.html"
+      }
+    
+}
